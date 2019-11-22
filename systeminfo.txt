@@ -1,0 +1,14 @@
+Welcome to yasfu.net interactive web terminal<br/>
+<br/>
+&#9; * Documentation: <a href="https://github.com/littlebigbug/">https://github.com/littlebigbug/</a><br/>
+&#9; * Repository: <a href="https://github.com/littlebigbug/">https://github.com/littlebigbug/</a><br/>
+&#9; * User Agent: {USERAGENT}<br/>
+&#9; * Support: ethan@yasfu.net<br/>
+<br/>
+Despite being a traditional-looking terminal, you may use your mouse to navigate links on the page.<br/>
+This is still a normal website!<br/>
+<br/>
+67 packages can be updated.<br/>
+11 updates are security updates.<br/>
+<br/>
+Last Login: {LASTLOGIN}

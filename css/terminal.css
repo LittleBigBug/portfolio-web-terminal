@@ -1,0 +1,55 @@
+body {
+  background-color: #181a1b;
+}
+
+#terminal {
+  font-family: "Ubuntu Mono";
+  font-size: 16px;
+  color: white;
+  word-break: break-word;
+}
+
+#terminal a {
+  color: #3391ff;
+}
+
+#terminal .prefix .userdomain {
+  color: rgb(127, 255, 127);
+}
+
+#terminal .prefix .tilde {
+  color: blue;
+}
+
+#terminal .lsdir {
+  color: aqua;
+}
+
+#terminal .lsfile, #terminal .helpcmd {
+  color: white;
+}
+
+#terminal #terminput {
+  border: none;
+  background-image: none;
+  background-color: transparent;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  font-family: "Ubuntu Mono";
+  font-size: 16px;
+  width: 85%;
+
+  /*
+    Removes blinker, in a hacky way, but whatever.
+  */
+
+  color: transparent;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 0px;
+  -webkit-text-stroke-color: black;
+}
+
+#terminal #terminput:focus {
+  outline: none;
+}

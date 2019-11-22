@@ -1,0 +1,4 @@
+My name is Ethan Jones, I'm a software developer student from Colorado, USA.<br/>
+I was born in the US but my family is from both US and the UK<br/>
+I love programming, music, and my wonderful girlfriend.<br/>
+I make and play video games in my spare time and go to <a href="http://warrentech.org/">Warren Tech</a> High School to study Game Development.
