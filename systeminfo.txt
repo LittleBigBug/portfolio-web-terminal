@@ -1,7 +1,7 @@
 Welcome to yasfu.net interactive web terminal<br/>
 <br/>
-&#9; * Documentation: <a href="https://github.com/littlebigbug/">https://github.com/littlebigbug/</a><br/>
-&#9; * Repository: <a href="https://github.com/littlebigbug/">https://github.com/littlebigbug/</a><br/>
+&#9; * Documentation: <a href="https://github.com/littlebigbug/portfolio-web-terminal">https://github.com/littlebigbug/portfolio-web-terminal</a><br/>
+&#9; * Repository: <a href="https://github.com/littlebigbug/portfolio-web-terminal">https://github.com/littlebigbug/portfolio-web-terminal</a><br/>
 &#9; * User Agent: {USERAGENT}<br/>
 &#9; * Support: ethan@yasfu.net<br/>
 <br/>

@@ -65,7 +65,6 @@ function autoWrite() {
 
 function appendToTerm(obj) {
   obj.appendTo(term);
-  // scroll to bottom
 }
 
 function toggleInput(tog) {
