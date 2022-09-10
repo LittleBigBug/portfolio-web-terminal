@@ -12,7 +12,7 @@ To increase this further, files listed with "ls" and other places can be clicked
 ## How-To setup
 
 If you'd like to configure it for your own needs, any file in the terminalfiles folder are automatically available for the terminal to use.
-By default the commands `cat welcome.txt` and `ls` are automatically ran when the terminal starts. You can change welcome.txt to change the welcome message or change the commands themselves in terminal.js, line 27:
+By default the commands `cat welcome.txt` and `ls` are automatically run when the terminal starts. You can change welcome.txt to change the welcome message or change the commands themselves in terminal.js, line 27:
 
 ```js
 autowriteQueue.push("Command here with arguments");
